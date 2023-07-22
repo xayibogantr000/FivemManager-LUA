@@ -1,5 +1,5 @@
 {
-  "name": "fivemanagementbot",
+  "name": "fivem manager with just commands xayibogantr",
   "version": "1.0.0",
   "description": "",
   "main": "bot.js",
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "\u0016https://github.com/MOXHAFOREVA/mx-bot"
+    "url": "\u0016https://github.com/xayibogantr/xayibogantr-db"
   },
-  "author": "MOXHA",
+  "author": "xayibogantr",
   "license": "ISC",
   "dependencies": {
     "discord.js": "git+https://github.com/vecchiotom/discord.js.git#d9e8619353e60e02619c48745356b0511050d22d"
