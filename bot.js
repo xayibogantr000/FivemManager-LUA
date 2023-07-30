@@ -427,7 +427,7 @@ RegisterNetEvent('xayibogantr-db:SendEmbed')
 on('xayibogantr-db:SendEmbed', embed => CurrentChannel?.send(SendEmbed(embed)));
 
 SendEmbed = (embed) => {
-     const CreateEmbed = new Discord.MessageEmbed().setFooter('xayibogantr ❤️ CityLive')
+     const CreateEmbed = new Discord.MessageEmbed().setFooter('xayibogantr')
      embed.description && CreateEmbed.setDescription(embed.description)
      embed.author && CreateEmbed.setAuthor(embed.author)
      embed.color && CreateEmbed.setColor(embed.color)
