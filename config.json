@@ -1,21 +1,4 @@
-{
-     "token": "",
-     "prefix": "-",
-     "admin_roleid": "1088257233957158962",
-     "discord_whitelist": {
-          "active": true,
-          "role_id": "1088257768475070545",
-          "server_id": "765068790605938698"
-     },
-     "useQB": true,
-     "old_esx": {
-          "user_accounts": false,
-          "user_inventory": false
-     },
-     "identifier": "license",
-     "wipe_tables": [
-          {"table": "users", "owner": "identifier"},
-          {"table": "addon_account_data", "owner": "owner"}
-     ],
-     "discord_link": "https://discord.gg/"
-}
+Config için ulaş. 
+
+
+xayibogantr - xayibogantr#1234
