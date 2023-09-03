@@ -1,4 +1,3 @@
-  Config için ulaş. 
+DISCORD tabanlı fivem yönetim.
 
-
-xayibogantr - xayibogantr#1234
+config için ulaş. xayibogantr - xayibogantr#1234
