@@ -1,3 +1,5 @@
-DISCORD tabanlı fivem yönetim.
+DISCORD tabanlı fivem yönetim. (SLASHSIZ)
 
-config için ulaş. xayibogantr - xayibogantr#1234
+ Fork ve star yeterlidir. ♥
+ 
+ İletişim:  xayibogantr - xayibogantr#1234
